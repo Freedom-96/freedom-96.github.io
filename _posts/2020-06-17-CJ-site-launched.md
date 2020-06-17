@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CJ Site Launched - Blog"
+title: "CJ Site Launched"
 date: 2020-06-17
 ---
 
