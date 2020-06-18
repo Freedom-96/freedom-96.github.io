@@ -6,8 +6,7 @@ date: 2020-06-18
 
 <p>
     <ul>
-    This is a link to
-    <a  href="https://www.google.com"
-        title="all hail google senpai">Google homepage.</a>
+        <li>This is a link to <a href="https://www.google.com" title="all hail google senpai">Google homepage.</a></li>
+        <li>Back to <a href="/">Homepage.</a></li>
     </ul>
 </p>
