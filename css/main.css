@@ -12,6 +12,8 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+/*css for hyperlink*/
 a {
     text-decoration: none;
     color: #999;
