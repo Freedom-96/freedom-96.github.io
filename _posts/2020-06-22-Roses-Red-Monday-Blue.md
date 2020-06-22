@@ -21,13 +21,12 @@ date: 2020-06-22
 <p>Copy Pasta: I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
 
 <dl>
-<dt>Abbreviations</dt>
-<dd>Hover over to learn these words ;)</dd>
-<dd></dd>
+    <dt>Abbreviations</dt>
+        <dd>Hover over to learn these words ;)</dd>
+        <ul>
+            <li><abbr title="Dual Dipped Lychee Yogurt">DDLY</abbr></li>
+            <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
+            <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
+        </ul>
 </dl>
 
-<ul>
-    <li><abbr title="Dual Dipped Lychee Yogurt">DDLY<abbr></li>
-    <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
-    <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
-</ul>
