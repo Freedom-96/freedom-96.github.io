@@ -8,7 +8,7 @@ date: 2020-06-18
         <li>This is a link to <a href="https://www.google.com" title="all hail google senpai">Google homepage.</a></li>
         <li>Click on Tom Nook to make it clap<br>
             <a href="/resources/tom-nook.gif" title="clap clap"><img src="/resources/tom-nook.jpg" alt="tom nook" width="240" height="135"></a></li>
-        <li>Go to <a href="/">mainpage</a></li>
+        <li>Go to <a href="/">Home</a></li>
 </p>
 
 <p id="p1">
