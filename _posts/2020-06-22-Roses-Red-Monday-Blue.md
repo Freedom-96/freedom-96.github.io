@@ -10,13 +10,6 @@ date: 2020-06-22
     <dd>This is 2nd description definition.</dd>
     <dt>Another description term</dt>
     <dd>Another description definition which has no definition at all.</dd>
-    <dt>Abbreviations</dt>
-    <dd>Hover over to learn new words ;)</dd>
-    <ul>
-        <li><abbr title="Dual Dipped Lychee Yogurt">DDLY<abbr></li>
-        <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
-        <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
-    <ul>
 </dl>
 
 <P><a href="https://en.wikipedia.org/wiki/Ip_Man"><cite>Ip Man</cite></a> once said:</p>
@@ -26,3 +19,13 @@ date: 2020-06-22
 <p>and he did it, I did it too, not people, but aeroplane instead. jk.</P>
 
 <p>Copy Pasta: I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
+
+<dl>
+<dt>Abbreviations</dt>
+<dd>Hover over to learn new words ;)</dd>
+<ul>
+    <li><abbr title="Dual Dipped Lychee Yogurt">DDLY<abbr></li>
+    <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
+    <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
+<ul>
+</dl>
