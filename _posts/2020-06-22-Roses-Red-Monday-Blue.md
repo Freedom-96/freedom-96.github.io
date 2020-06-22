@@ -22,10 +22,10 @@ date: 2020-06-22
 
 <dl>
 <dt>Abbreviations</dt>
-<dd>Hover over to learn new words ;)</dd>
+<dd>Hover over to learn these words ;)</dd>
 <ul>
     <li><abbr title="Dual Dipped Lychee Yogurt">DDLY<abbr></li>
     <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
     <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
-<ul>
+</ul>
 </dl>
