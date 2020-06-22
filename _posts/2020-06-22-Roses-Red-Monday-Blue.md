@@ -12,6 +12,8 @@ date: 2020-06-22
     <dd>Another description definition which has no definition at all.</dd>
 </dl>
 
-<P>Ip Man once said:</p>
+<P><a href="https://en.wikipedia.org/wiki/Ip_Man"><cite>Ip Man</cite></a> once said:</p>
+<blockquote cite="https://zhidao.baidu.com/question/1606385457153097947.html?qbl=relate_question_4">
 <p>我要打十个. I want fight 10 people.</p>
-<p>and he did it. so strong. much wow.</P>
+</blockquote>
+<p>and he did it. I did it too, but not people, its aeroplane instead. jk.</P>
