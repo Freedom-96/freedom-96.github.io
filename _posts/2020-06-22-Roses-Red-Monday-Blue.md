@@ -12,9 +12,11 @@ date: 2020-06-22
     <dd>Another description definition which has no definition at all.</dd>
     <dt>Abbreviations</dt>
     <dd>Hover over to learn new words ;)</dd>
+    <ul>
         <li><abbr title="Dual Dipped Lychee Yogurt">DDLY<abbr></li>
         <li><abbr title="Miniature Circuit Breaker">MCB</abbr></li>
         <li><abbr title="Thailand, China, Japan">TCJ</abbr></li>
+    <ul>
 </dl>
 
 <P><a href="https://en.wikipedia.org/wiki/Ip_Man"><cite>Ip Man</cite></a> once said:</p>
