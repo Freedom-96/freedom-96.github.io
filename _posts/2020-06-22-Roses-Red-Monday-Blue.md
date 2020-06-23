@@ -53,21 +53,21 @@ date: 2020-06-22
 <p>If x<sup>2</sup> is 9, x must equal 3 or -3.</p>
 
 <h2>Computer code</h2>
-<pre><code>var para = document.querySelector('p');
-
+<pre><code title="code">var para = document.querySelector('p');
+//&lt;pre&gt; is used here to retain whitespace
 para.onclick = function() {
   alert('Owww, stop poking me!');
 }</code></pre>
 
 <p>You shouldn't use presentational elements like <code>&lt;font&gt;</code> and <code>&lt;center&gt;</code>.</p>
 
-<p>In the above JavaScript example, <var title="var">para</var> represents a paragraph element.</p>
+<p>In the above JavaScript example, <var title="var: variable names">para</var> represents a paragraph element.</p>
 
 
 <p>Select all the text with <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>A</kbd>.</p>
 
-<pre>$ <kbd>ping mozilla.org</kbd>
-<samp>PING mozilla.org (63.245.215.20): 56 data bytes
+<pre>$ <kbd title="kbd: keyboard input">ping mozilla.org</kbd>
+<samp title="samp: program output">PING mozilla.org (63.245.215.20): 56 data bytes
 64 bytes from 63.245.215.20: icmp_seq=0 ttl=40 time=158.233 ms</samp></pre>
 
 <h2>Times & dates</h2>
