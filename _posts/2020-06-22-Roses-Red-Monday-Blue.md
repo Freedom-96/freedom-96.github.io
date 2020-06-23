@@ -73,20 +73,20 @@ para.onclick = function() {
 <h2>Times & dates</h2>
 <ul>
 <!-- Standard simple date -->
-<li><time datetime="2016-01-20">20 January 2016</time></li>
+<li><time datetime="2016-01-20" title="2016-01-20">20 January 2016</time></li>
 <!-- Just year and month -->
-<li><time datetime="2016-01">January 2016</time></li>
+<li><time datetime="2016-01" title="2016-01">January 2016</time></li>
 <!-- Just month and day -->
-<li><time datetime="01-20">20 January</time></li>
+<li><time datetime="01-20" title="01-20">20 January</time></li>
 <!-- Just time, hours and minutes -->
-<li><time datetime="19:30">19:30</time></li>
+<li><time datetime="19:30" title="19:30">19:30</time></li>
 <!-- You can do seconds and milliseconds too! -->
-<li><time datetime="19:30:01.856">19:30:01.856</time></li>
+<li><time datetime="19:30:01.856" title="19:30:01.856">19:30:01.856</time></li>
 <!-- Date and time -->
-<li><time datetime="2016-01-20T19:30">7.30pm, 20 January 2016</time></li>
+<li><time datetime="2016-01-20T19:30" title="2016-01-20T19:30">7.30pm, 20 January 2016</time></li>
 <!-- Date and time with timezone offset -->
-<li><time datetime="2016-01-20T19:30+01:00">7.30pm, 20 January 2016 is 8.30pm in France</time></li>
+<li><time datetime="2016-01-20T19:30+01:00" title="2016-01-20T19:30+01:00">7.30pm, 20 January 2016 is 8.30pm in France</time></li>
 <!-- Calling out a specific week number -->
-<li><time datetime="2016-W04">The fourth week of 2016</time></li>
+<li><time datetime="2016-W04" title="2016-W04">The fourth week of 2016</time></li>
 </ul>
 
