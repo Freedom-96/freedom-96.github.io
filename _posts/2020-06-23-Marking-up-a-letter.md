@@ -1,4 +1,4 @@
-<!--DOCTYPE html-->
+<!DOCTYPE html>
   <html lang="en">
     <head>
       <title>Marking up a letter</title>
@@ -44,7 +44,7 @@ We are happy to accommodate you starting your study with us at any time, however
 Please let me know if this is ok, and if so which start date you would prefer.
       </p>
       <p>
-        You can find more information about <a href="https://www.monash.edu/students/dates/summary-dates">important university dates</a> on our website.
+        You can find more information about <a href="https://www.monash.edu/students/dates/summary-dates" target="_blank">important university dates</a> on our website.
       </p>
         <h2>Subjects of study</h2>
 <p>
@@ -72,7 +72,7 @@ So please can you provide more information on each of these subjects, including 
 <dd>An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterized by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.</dd>
 </dl>
       <p>
-For more of my research, see my <a href="https://link.springer.com/article/10.1007/s12119-010-9084-8">exotic dance research page.</a>
+For more of my research, see my <a href="https://link.springer.com/article/10.1007/s12119-010-9084-8" target="_blank">exotic dance research page.</a>
         </p>
   <pre>
 Yours sincerely,
