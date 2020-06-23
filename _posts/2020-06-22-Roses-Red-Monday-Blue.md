@@ -61,7 +61,7 @@ para.onclick = function() {
 
 <p>You shouldn't use presentational elements like <code>&lt;font&gt;</code> and <code>&lt;center&gt;</code>.</p>
 
-<p>In the above JavaScript example, <var>para</var> represents a paragraph element.</p>
+<p>In the above JavaScript example, <var title="var">para</var> represents a paragraph element.</p>
 
 
 <p>Select all the text with <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>A</kbd>.</p>
